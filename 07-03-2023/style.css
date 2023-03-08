@@ -1,0 +1,30 @@
+.container{
+    width: 60%;
+    margin: auto;
+}
+.blue{
+    background-color: blue;
+    height: 180px;
+}
+.red{
+    background-color: red;
+    padding: 20px;
+}
+
+.red img {
+    width: 100%;
+}
+
+/*  */
+body {
+    background-color: whitesmoke;
+}
+.courses{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 300px;
+}
+
